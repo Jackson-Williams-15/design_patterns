@@ -1,0 +1,10 @@
+blouse : pink : summer, spring
+t-shirt : green : summer,spring
+long sleev shirt : maroon : fall, winter
+tie dye t-shirt : blue and red : summer, spring, fall
+lace button down shirt : white : winter, spring
+tank top : purple : spring, summer
+v-neck shirt : orange : fall, winter
+polo shirt : red : fall, winter
+flannel shirt : red and orange : fall, winter
+hawaiian shirt : pink and blue : summer

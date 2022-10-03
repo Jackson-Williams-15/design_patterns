@@ -1,0 +1,13 @@
+jeans : blue : fall, winter, spring
+cargo pants: green : fall, winter
+dress pants: khaki : winter, spring
+army shorts: brown and green: summer, fall
+athletic shorts: black : spring, summer
+board shorts: blue: spring, summer
+sweat pants: purple: fall, winter
+slacks: black: fall, winter, spring
+pleated skirt : ivory : spring, summer
+A-line Skirt : forest green: fall, winter
+mini-skirt: cyan: spring, summer
+pencil-skirt: navy blue: fall, winter
+wrap-skirt: aqua: spring, summer
